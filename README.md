@@ -1,4 +1,4 @@
 # Agriculture Simple DataSet
 
-# Simple 25 sample of real soil characteristics.  The samples was measured in a small farm in Rio de Janeiro state.
+# 25 real soil samples. They were measured on a small farm in Rio de Janeiro state..
 
